@@ -33,6 +33,23 @@ The script first converts the input audio file to WAV format if necessary using 
 
 This script can be useful for anyone who needs to transcribe audio files to text, such as researchers, journalists, and content creators. It provides a simple and efficient way to transcribe audio data, with support for multiple audio formats and languages.
 
+## Supported Languages
+
+Language | Code 
+---------|------
+English (US) | en-US 
+English (UK) | en-GB 
+French | fr-FR 
+German | de-DE 
+Spanish | es-ES 
+Italian | it-IT 
+Japanese | ja-JP 
+Korean | ko-KR 
+Mandarin Chinese | zh-CN 
+Russian | ru-RU 
+
+Note that this is not an exhaustive list of supported languages. For a full list of supported languages and their corresponding codes, see the [SpeechRecognition documentation](https://cloud.google.com/speech-to-text/docs/speech-to-text-supported-languages).
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
