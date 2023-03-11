@@ -1,0 +1,10 @@
+autopep8==2.0.2
+certifi==2022.12.7
+charset-normalizer==3.1.0
+idna==3.4
+pycodestyle==2.10.0
+pydub==0.25.1
+requests==2.28.2
+SpeechRecognition==3.9.0
+tomli==2.0.1
+urllib3==1.26.14
